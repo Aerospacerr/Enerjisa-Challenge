@@ -1,4 +1,4 @@
-# Item Based Collaborative Movie Recommendation System
+# Enerjisa Enerji Veri Maratonu  
 
 <p align="center">
 	<img src="  " />
@@ -19,10 +19,9 @@
 ## Project info
 
 ## Dataset info
-Name: Online Retail II  
-Link: https://archive.ics.uci.edu/ml/machine-learning-databases/00502/   
-You can download it from the link, it is bigger than 25MB, therefore couldn't upload here.
-**InvoiceNo:** Invoice number.
+Name: enerjisa-enerji-veri-maratonu  
+Link: https://www.kaggle.com/c/enerjisa-enerji-veri-maratonu  
+
 
 ## Technologies
 Project is created with:
@@ -32,7 +31,6 @@ Project is created with:
 
 	
 ## Setup
-To run this project, just run the functions at the bottom of code and call "item_based_recommender". That's it!
 
 ## Developments 
 
